@@ -2,3 +2,4 @@
 - Did STL video from striver : https://www.youtube.com/watch?v=RRVYpIET_RU
 - Did one upper and one lower bound video that can help in coding contests : https://www.youtube.com/watch?v=edJ19qIL8WQ
 - Did Reverse a Number : https://leetcode.com/problems/reverse-integer/
+- Did all patterns question also
