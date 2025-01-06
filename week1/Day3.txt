@@ -1,0 +1,31 @@
+//4 January 2025
+
+- 1.  Rotate the array by k elements :
+https://leetcode.com/problems/rotate-array/submissions/1497147873/
+
+- 2. Rotate array by one place :
+https://leetcode.com/problems/rotate-array/
+
+- 3. Rotate array by D places :
+https://leetcode.com/problems/rotate-array/
+
+- 4. Move zeroes to the end :
+https://leetcode.com/problems/move-zeroes/
+
+- 5. Find element in an array :
+https://bit.ly/3KcpHcB
+
+- 6. Union of Two Sorted Arrays :
+https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays
+
+- 7. Missing Number in the array:
+https://leetcode.com/problems/missing-number/description/
+
+- 8. Maximum Consecutive Ones
+https://leetcode.com/problems/max-consecutive-ones/description/
+
+- 9. Find the number that appears once, and other numbers twice.
+https://leetcode.com/problems/single-number/
+
+- 10. Longest Sub-Array with Sum K
+https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k
