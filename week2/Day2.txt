@@ -9,3 +9,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?sourc
 https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/
 - 5. Next Permutation :
 https://leetcode.com/problems/next-permutation
+- 6. Leaders in an array :
+https://bit.ly/3bZqbGc
+- 7. Longest Consecutive sequence :
+https://leetcode.com/problems/longest-consecutive-sequence/description/

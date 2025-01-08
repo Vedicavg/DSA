@@ -3,3 +3,5 @@ Questions:
 https://leetcode.com/problems/sort-colors/
 - 2. Majority Element : [MOORE's Voting algorithm]
 https://leetcode.com/problems/majority-element/submissions/1499554432/
+- 3. Next Permutation :
+https://leetcode.com/problems/next-permutation
