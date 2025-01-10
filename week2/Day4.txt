@@ -1,0 +1,12 @@
+//January 9 2025
+
+
+- 1. Rotate Matrix (transpose and swap row approach )
+https://leetcode.com/problems/rotate-image/
+- 2. Print the matrix in spiral manner
+https://leetcode.com/problems/spiral-matrix/
+- 3. Count subarrays with given sum
+https://leetcode.com/problems/subarray-sum-equals-k/
+- 4. Pascal's Triangle :
+https://leetcode.com/problems/pascals-triangle/
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE93TU5uUk9TbG11UlJlOGdvc050MDNhUHRud3xBQ3Jtc0tsTHU5QXJFRDRLdHJDRkdKemRyQk5hZ0EwdzIwYXM3UC11SEpwN2F6VHlXOE1YTmNfdW9EbjNqZU5tLXpYYVFNWmRYY3JhZWVMZVNWZkdrNGxMbll4MGJINFZkYlBTcFVxb3NhLU5uaU8xajdERkxZQQ&q=https%3A%2F%2Fbit.ly%2F3jY4iuF&v=bR7mQgwQ_o8

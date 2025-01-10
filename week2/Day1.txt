@@ -1,7 +1,10 @@
 // 5 January 2025
+
+
 Questions :
 - 1. Two Sum :
 https://leetcode.com/problems/two-sum/submissions/1499442644/
 - 2. sort colors :
 https://leetcode.com/problems/sort-colors/description/
-- 3. Majority Element 
+- 3. Majority Element (>n/2 times) :
+https://leetcode.com/problems/majority-element/
