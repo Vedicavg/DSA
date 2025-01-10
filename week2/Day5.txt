@@ -1,0 +1,8 @@
+//10 January 2025
+
+- 1. Majority Element (n/3 times) :
+https://leetcode.com/problems/majority-element-ii/
+- 2. 3-Sum Problem :
+https://leetcode.com/problems/3sum/
+- 3. 4 Sum problem :
+https://leetcode.com/problems/4sum/
