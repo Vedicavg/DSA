@@ -1,11 +1,24 @@
 Questions:
 
 
-- 1. Sort Colors : [DNF Algorithm]
+- 1. Sort Colors : [DNF Algorithm] : done
 https://leetcode.com/problems/sort-colors/
-- 2. Majority Element : [MOORE's Voting algorithm]
+
+- 2. Majority Element : [MOORE's Voting algorithm] : done
 https://leetcode.com/problems/majority-element/submissions/1499554432/
-- 3. Next Permutation :
+
+- 3. Next Permutation : 
 https://leetcode.com/problems/next-permutation
-- 4. Print the matrix in spiral manner
+
+- 4. Print the matrix in spiral manner : done
 https://leetcode.com/problems/spiral-matrix/
+
+- 5. Pascal's Triangle : done
+https://leetcode.com/problems/pascals-triangle/
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE93TU5uUk9TbG11UlJlOGdvc050MDNhUHRud3xBQ3Jtc0tsTHU5QXJFRDRLdHJDRkdKemRyQk5hZ0EwdzIwYXM3UC11SEpwN2F6VHlXOE1YTmNfdW9EbjNqZU5tLXpYYVFNWmRYY3JhZWVMZVNWZkdrNGxMbll4MGJINFZkYlBTcFVxb3NhLU5uaU8xajdERkxZQQ&q=https%3A%2F%2Fbit.ly%2F3jY4iuF&v=bR7mQgwQ_o8
+
+- 6. 4 Sum problem : 
+https://leetcode.com/problems/4sum/
+
+- 7. Merge Overlapping Subintervals :
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2

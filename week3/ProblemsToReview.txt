@@ -1,0 +1,6 @@
+
+1. Find the repeating and missing number (Xor method) :
+https://bit.ly/3zWZoCs
+
+2. - 2. Merge two sorted arrays without extra space (Shell sort) :
+https://leetcode.com/problems/merge-sorted-array/
