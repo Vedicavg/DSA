@@ -4,3 +4,5 @@
 https://leetcode.com/problems/merge-sorted-array/
 - 2. Find the repeating and missing number :
 https://bit.ly/3zWZoCs
+- 3. Count Inversions :
+https://bit.ly/3PtLWLM

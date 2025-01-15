@@ -4,3 +4,10 @@ https://bit.ly/3zWZoCs
 
 2. - 2. Merge two sorted arrays without extra space (Shell sort) :
 https://leetcode.com/problems/merge-sorted-array/
+
+- 3. Count Inversions :
+https://bit.ly/3PtLWLM
+
+- 4.Reverse Pairs
+https://leetcode.com/problems/reverse-pairs
+
