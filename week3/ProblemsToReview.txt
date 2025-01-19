@@ -11,3 +11,5 @@ https://bit.ly/3PtLWLM
 - 4.Reverse Pairs
 https://leetcode.com/problems/reverse-pairs
 
+-5. Find floor and ceil
+https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401?leftPanelTab=0&leftPanelTabValue=PROBLEM

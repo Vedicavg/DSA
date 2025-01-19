@@ -1,0 +1,5 @@
+16 January 2025
+1. Reverse Pairs:
+https://leetcode.com/problems/reverse-pairs/
+2. Maximum Product Subarray :
+https://leetcode.com/problems/maximum-product-subarray/
