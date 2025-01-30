@@ -1,1 +1,6 @@
 // 22 Jan 2025
+1. First and last occurence in an array :
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+2. https://bit.ly/3SVcOqW
+https://bit.ly/3SVcOqW
+3. 
