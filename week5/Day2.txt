@@ -1,0 +1,12 @@
+//31 January 2025
+
+1.  Find Peak element
+https://leetcode.com/problems/find-peak-element/
+2. Single element in a Sorted Array
+https://leetcode.com/problems/single-element-in-a-sorted-array/
+3. Find square root of a number in log n : (here keep in mind the overflow of mid*mid)
+https://bit.ly/41AJb1p
+4. Find the Nth root of a number using binary search :
+https://www.naukri.com/code360/problems/nth-root-of-m_1062679?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse
+5. Koko Eating Bananas :
+https://leetcode.com/problems/koko-eating-bananas
