@@ -1,0 +1,5 @@
+// 4 February 2025
+1. Split array - Largest Sum
+https://leetcode.com/problems/split-array-largest-sum/
+2. Painter's partition 
+https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
