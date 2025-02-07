@@ -1,0 +1,6 @@
+
+1. Minimize Max Distance to Gas Station :
+https://www.naukri.com/code360/problems/minimise-max-distance_7541449?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM
+
+1. Median of 2 sorted arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/
