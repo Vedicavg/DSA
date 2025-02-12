@@ -1,0 +1,12 @@
+// 11 Jan 2025
+
+1. Reverse words in a given string / Palindrome Check :
+https://leetcode.com/problems/reverse-words-in-a-string/ 
+2. Largest odd number in a string :
+https://leetcode.com/problems/largest-odd-number-in-string/ 
+3. Longest Common Prefix :
+https://leetcode.com/problems/longest-common-prefix/ 
+4. Isomorphic String :
+https://leetcode.com/problems/isomorphic-strings/
+5. Rotate String : ******* KMP algorithm *********
+https://leetcode.com/problems/rotate-string/

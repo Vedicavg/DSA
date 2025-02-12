@@ -1,6 +1,9 @@
 
-1. Minimize Max Distance to Gas Station :
+1. Minimize Max Distance to Gas Station :***********
 https://www.naukri.com/code360/problems/minimise-max-distance_7541449?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM
-
-1. Median of 2 sorted arrays
+2. Median of 2 sorted arrays
 https://leetcode.com/problems/median-of-two-sorted-arrays/
+3. Kth element of 2 sorted arrays :
+https://bit.ly/3Amcomr
+4. Matrix Median
+https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=median-in-a-row-wise-sorted-matrix
