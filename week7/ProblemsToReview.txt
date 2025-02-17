@@ -1,0 +1,6 @@
+
+1. Rotate String : ******* KMP algorithm *********
+https://leetcode.com/problems/rotate-string/editorial/
+2. Isomorphic String :
+https://leetcode.com/problems/isomorphic-strings/
+ 

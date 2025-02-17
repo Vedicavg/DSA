@@ -1,3 +1,11 @@
-// 12 January 2025
-1. 5. Rotate String : ******* KMP algorithm *********
-https://leetcode.com/problems/rotate-string/editorial/
+// 12 Feb 2025
+
+1. Rotate String : ******* KMP algorithm *********
+https://leetcode.com/problems/rotate-string/
+    KMP algorithm 
+        1. Take two Vanables i and j
+        2. i= Sting (T(1)) {starting of string T}, j= P[0]
+        3. Compare T(i) with P(j+1)
+        4. if Match is found (Move both i and j to right)
+        5. if Mismatch (move j to the location as per pi table Index)
+        6. if j=0 move i to the right
